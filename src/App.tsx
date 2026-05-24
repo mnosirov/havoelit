@@ -151,8 +151,8 @@ export default function App() {
             )}
           </AnimatePresence>
 
-          {/* Main Content Area (Centering with custom visual offset pulled up via -mt-80) */}
-          <main className="flex-1 flex items-center justify-center -mt-80 px-6 select-none">
+          {/* Main Content Area (Centering vertically in the available space) */}
+          <main className="flex-1 flex items-center justify-center px-6 select-none">
             <div id="hero-content" className="w-full max-w-4xl text-center flex flex-col items-center">
               
               {/* Category tag */}
