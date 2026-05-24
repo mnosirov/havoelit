@@ -1,0 +1,6 @@
+{
+  "name": "HavoElit",
+  "description": "Premium private jet landing page hero section with an immersive background video, modern typography, and smooth navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
